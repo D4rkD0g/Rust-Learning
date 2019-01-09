@@ -1,0 +1,7 @@
+[package]
+name = "flip01"
+version = "0.1.0"
+authors = ["lambda <hallodog@hotmail.com>"]
+edition = "2018"
+
+[dependencies]
